@@ -400,7 +400,7 @@ define(function () {
 
 	{
 		label: 'Odnoklassniki',
-		matches: ['*://odnoklassniki.ru/*', '*://ok.ru/*'],
+		matches: ['*://www.odnoklassniki.ru/*', '*://www.ok.ru/*'],
 		js: ['connectors/v2/odnoklassniki.js'],
 		allFrames: true,
 		version: 2
